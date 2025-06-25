@@ -43,8 +43,8 @@ This project aims to identify fraudulent insurance claims using machine learning
 
 ## Authors
 
-- [Your Name]
-- [Your Team/Organization]
+- Dewang Shishodia
+- Aditya Peesapati
 
 ## License
 
