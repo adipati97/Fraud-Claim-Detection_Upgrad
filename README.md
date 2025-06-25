@@ -38,7 +38,6 @@ This project aims to identify fraudulent insurance claims using machine learning
 ## Usage
 
 - Run the Jupyter notebook to reproduce the analysis.
-- All plots and results are saved in the `outputs/` directory.
 - The final PDF report summarizes the workflow, results, and recommendations.
 
 ## Authors
